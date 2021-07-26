@@ -1,0 +1,31 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgoossens/vscode-issue.git"
+  },
+  "keywords": [
+    "issue"
+  ],
+  "author": "Spencer Goossens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgoossens/vscode-issue/issues"
+  },
+  "homepage": "https://github.com/sgoossens/vscode-issue#readme",
+  "dependencies": {
+    "ajv": "6.9.1",
+    "axios": "0.21.1",
+    "big.js": "6.0.3"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  }
+}

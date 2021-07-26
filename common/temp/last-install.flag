@@ -1,0 +1,6 @@
+{
+  "node": "12.22.1",
+  "packageManager": "pnpm",
+  "packageManagerVersion": "5.15.2",
+  "storePath": "/Users/spencergoossens/Documents/sandbox/vscode-issue/common/temp/pnpm-store"
+}

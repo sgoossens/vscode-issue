@@ -1,5 +1,6 @@
 export class MyClass{
 	constructor(
-		foo: Foo
+		foo: Foo,
+		bar: AxiosRequestConfig
 	) {}
 }
